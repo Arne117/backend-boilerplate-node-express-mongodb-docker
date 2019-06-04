@@ -1,0 +1,13 @@
+[
+    {
+      "name": "John",
+      "emailAddress": "jhondoe@somemail.com",
+      "homeAddress": {
+        "country": "Finnland",
+        "city": "Espoo",
+        "postalCode": "02150",
+        "street": "maarintie 6",
+        "addition": ""
+      }
+    }
+  ]
