@@ -18,7 +18,7 @@ Start with: `docker-compose up -d`
 
 Node server listens on Port `8081`.
 
-Logs: `docker-compose logs —-follow node`
+Logs: `docker-compose logs -f node`
 
 Add npm package while docker-compose is running:
 
